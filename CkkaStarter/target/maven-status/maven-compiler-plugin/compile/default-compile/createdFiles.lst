@@ -1,0 +1,4 @@
+com\karl\pre\ckka\actor\InfoSender.class
+com\karl\pre\ckka\config\CkkaConfiguration.class
+com\karl\pre\ckka\message\ClusterMessage.class
+com\karl\pre\ckka\actor\InfoListener.class
